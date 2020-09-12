@@ -4,3 +4,4 @@ TwoWay Binding 스터디
 
 # 스크린샷
 ![](Screenshot.PNG)
+![](Screenshot2.PNG)
